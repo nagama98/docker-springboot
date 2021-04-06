@@ -1,0 +1,5 @@
+com\almightyjava\BookRepository.class
+com\almightyjava\Book.class
+com\almightyjava\SecurityConfiguration.class
+com\almightyjava\Application.class
+com\almightyjava\BookRestController.class
